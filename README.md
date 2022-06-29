@@ -1,3 +1,5 @@
 - 👋 Hi, I’m @mosanchez
-I'm an IT student at Western Governors University
-I'm looking to pursue a career in DevOps by learning a scripting language and finishing my degree
+I'm based out of Austin, TX and am currently in my final semester at Western Governors University working on a Bachelor of Science in IT.
+
+I currently work in IT and am looking to supplement my existing skillset with an emphasis in scripting & coding
+
